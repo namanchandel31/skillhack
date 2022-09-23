@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314163233600",
+    "project_id": "skillhack-rest-api",
+    "storage_bucket": "skillhack-rest-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314163233600:android:cd691885a1b4ea11a1f0a5",
+        "android_client_info": {
+          "package_name": "com.example.rubex_ps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314163233600-9uslpkc4teok8evv7806vfggna480v98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_hsa5qH139UjoX8BTjY7PTKLryjdgC-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314163233600-9uslpkc4teok8evv7806vfggna480v98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
